@@ -1,1 +1,2 @@
 # 32-BIT-RISC-PROCESSOR-IMPLEMENTED-IN-VERILOG
+--This is a 32 bit RISC processor which has been implemented through verilog. The ISA that is being used to facilitate the implementation of the processor is MIPS (Microprocessor without Interlocked Pipeline Stages ). The inspiration behind using the MIPS methodology is due to the advantage it offers with regards to it's fixed instruction length. This might put a limit on the number of basic instructions that the processor can implement however it makes the processor--
